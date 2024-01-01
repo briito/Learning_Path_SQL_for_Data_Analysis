@@ -1,7 +1,7 @@
 ## :hammer: Content Synopsis
 
-- Os Gerenciadores de Banco de Dados relacional (SGBDs) são frequentemente utilizados em projetos que envolvem operações em bases de dados.
+- Relational Database Managers (DBMSs) are often used in projects that involve database operations.
 
-- Neste curso utilizamos a linguagem SQL para executar operações. Aprofundamos os conhecimentos de SQL e passamos a entender um pouco mais sobre o contexto que envolve diversos tipos de aplicações.
+- In this course we use the SQL language to perform operations. We deepened our knowledge of SQL and began to understand a little more about the context surrounding different types of applications.
 
   <img src="/assets/img_sql.png" height=200 width=1200>
